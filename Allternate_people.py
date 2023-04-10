@@ -1,3 +1,8 @@
+# I wanna try something new to do this script and after some digging i found out cursor object.
+# Here is the link for that https://www.tutorialspoint.com/python_data_access/python_mysql_cursor_object.htm
+# GeeksForGeeks https://www.geeksforgeeks.org/python-sqlite-cursor-object/
+
+
 import sqlite3
 import pandas as pd
 
